@@ -22,7 +22,7 @@ Some tech things I like:
     <img src="https://vitejs.dev/logo.svg" alt="vitejs" width="40" height="40" />
   </a>
   <a href="https://sass-lang.com" target="_blank">
-    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="vitejs" width="40" height="40" />
+    <img src="https://sass-lang.com/assets/img/styleguide/color.png" alt="sass" width="40" height="40" />
   </a>
   <a href="https://nothing.tech/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Nothing_Logo.webp" alt="vitejs" width="40" height="40" style="border-radius: 5px" />
