@@ -5,8 +5,6 @@
 
 - 🌱 My favorites languages are Javascript(+HTML/CSS ofc) and Python *(but yea it's slow)*
 
-- 🔭 I’m currently working on a private webapp for a Gym: training, music, statistics...
-
 - 📫 How to reach me: **HectoFR#9766** on Discord
 
 <br/>
