@@ -1,9 +1,7 @@
 <h1 align="center"><i>HectoFR has joined the chat.</i><br />Bonjour 👋</h1>
 <h3 align="center">I'm a french passionate web developer.</h3>
 
-- 🔭 I’m currently working on [Xelis Blockchain](https://github.com/Slixe/xelis-blockchain)
-
-- 🌱 My favorites languages are Javascript(+HTML/CSS ofc) and Python *(but yea it's slow)*
+- 🌱 My favorites languages are Javascript(+HTML/CSS ofc) and Python
 
 - 📫 How to reach me: **HectoFR#9766** on Discord
 
