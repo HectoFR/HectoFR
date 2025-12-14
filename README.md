@@ -24,8 +24,3 @@ Some tech things I like:
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Nothing_Logo.webp" alt="vitejs" width="40" height="40" style="border-radius: 5px" />
   </a>
 </p>
-
-<br/>
-Some things I want you to see:
-
-[XELIS Blockchain](https://github.com/xelis-project/xelis-blockchain)
